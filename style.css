@@ -8,7 +8,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #08f7c3;
   color: #333;
   padding: 2rem;
 }
@@ -30,5 +30,5 @@ main {
   background-color: white;
   padding: 1.5rem;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px #fc040400;
 }
